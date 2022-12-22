@@ -4,4 +4,4 @@ common:
   
 frontend:
   image: frontend
-  tag: v30
+  tag: v31
