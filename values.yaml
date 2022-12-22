@@ -1,0 +1,7 @@
+common:
+  imageRepo: gcr.io/sandbox3-372220/tftggatst
+  envName: dev
+  
+frontend:
+  image: frontend
+  tag: v1
